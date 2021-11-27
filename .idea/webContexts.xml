@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/WEB-INF/assign-role.jsp" value="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/WEB-INF/target.jsp" value="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp/test-ajax.jsp" value="file://$PROJECT_DIR$/01admin-parent/02admin-webui/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>

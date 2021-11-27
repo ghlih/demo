@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ex">
+    <output-path>$PROJECT_DIR$/out/artifacts/ex</output-path>
+    <root id="archive" name="ex.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/01admin-parent/02admin-webui" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05common-util" />
+        <module name="04admin-entity" />
+        <module name="06common-reverse" />
+        <module name="02admin-webui" />
+        <module name="03admin-component" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="01admin-parent" target="1.8" />
+      <module name="02admin-webui" target="1.8" />
+      <module name="03admin-component" target="1.8" />
+      <module name="04admin-entity" target="1.8" />
+      <module name="05common-util" target="1.8" />
+      <module name="06common-reverse" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
